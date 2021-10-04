@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plsgivemeausername
 - 👀 I’m interested in Minecraft, Space and Dinosaurs
-- 🌱 I’m currently learning hw to make a robot
+- 🌱 I’m currently learning how to make a robot
 - 💞️ I’m looking to collaborate on making a robot
 - 📫 How to reach me jamespaulgradin@gmail.com
 
